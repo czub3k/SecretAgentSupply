@@ -11,12 +11,16 @@ html, body {
 }
 
 .main {
-  height: 25rem;
   width: 100%;
   font-weight: bold;
   background-image: url('https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-5/moto.jpeg');
   background-repeat: no-repeat;
   background-size: cover;
+  background-position: center;
+}
+
+.background-image {
+    height: 25rem;
 }
 
 .logo-content {
